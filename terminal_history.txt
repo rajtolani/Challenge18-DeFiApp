@@ -1,0 +1,17 @@
+    1  history
+    2  cd c:
+    3  cd RajB*
+    4  cd challenge-18
+    5  git config --global user.name Raj Tolani
+    6  git config --global user.email admin@tolanicollection.com
+    7  git clone https://github.com/rajtolani/Challenge18-DeFiApp.git
+    8  ls
+    9  cd CH*
+   10  cd Ch*
+   11  ls
+   12  git status
+   13  git add .
+   14  git status
+   15  git commit -m "Finished Code, Readme and scrren shots of streamlit App. Final Submission"
+   16  git push
+   17  history >terminal_history.txt
